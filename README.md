@@ -1,5 +1,7 @@
 # php_prac
 
+
+
 Problems I faced and solutions which worked
 
 1. mysql not starting - https://stackoverflow.com/questions/18177148/xampp-mysql-does-not-start <br>
