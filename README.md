@@ -69,4 +69,5 @@ Problems I faced and solutions which worked
 
 ?>
 ```
-5. Deleting record from table using php and button - https://e-codec.blogspot.com/2021/05/how-to-delete-data-from-database-in-php.html
+5. Deleting record from table using php and button - https://e-codec.blogspot.com/2021/05/how-to-delete-data-from-database-in-php.html </br>
+6. Edit and update the table by button click and php - https://www.campcodes.com/downloads/add-edit-delete-mysql-table-rows-in-php-source-code/
