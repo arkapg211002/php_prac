@@ -69,3 +69,4 @@ Problems I faced and solutions which worked
 
 ?>
 ```
+5. Deleting record from table using php and button - https://e-codec.blogspot.com/2021/05/how-to-delete-data-from-database-in-php.html
