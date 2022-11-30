@@ -70,4 +70,5 @@ Problems I faced and solutions which worked
 ?>
 ```
 5. Deleting record from table using php and button - https://e-codec.blogspot.com/2021/05/how-to-delete-data-from-database-in-php.html </br>
-6. Edit and update the table by button click and php - https://www.campcodes.com/downloads/add-edit-delete-mysql-table-rows-in-php-source-code/
+6. Edit and update the table by button click and php - https://www.campcodes.com/downloads/add-edit-delete-mysql-table-rows-in-php-source-code/ </br>
+7. Password verification using hashing - https://www.geeksforgeeks.org/how-to-encrypt-and-decrypt-passwords-using-php/#:~:text=Decryption%20of%20the%20password%3A%20To%20decrypt%20a%20password,given%20password%2C%20generated%20by%20the%20password_hash%20%28%29%20function.
