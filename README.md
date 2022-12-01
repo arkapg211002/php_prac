@@ -73,4 +73,12 @@ Problems I faced and solutions which worked
 6. Edit and update the table by button click and php - https://www.campcodes.com/downloads/add-edit-delete-mysql-table-rows-in-php-source-code/ </br>
 7. Password verification using hashing - https://www.geeksforgeeks.org/how-to-encrypt-and-decrypt-passwords-using-php/#:~:text=Decryption%20of%20the%20password%3A%20To%20decrypt%20a%20password,given%20password%2C%20generated%20by%20the%20password_hash%20%28%29%20function. </br>
 8. Disable back button in browser through js : https://stackoverflow.com/questions/7011334/disable-browser-back-button </br>
-9. Remove error messages: https://stackoverflow.com/questions/1987579/remove-warning-messages-in-php
+9. Remove error messages: https://stackoverflow.com/questions/1987579/remove-warning-messages-in-php </br>
+10. Not able to redirect to another php page using header() function in php- https://stackoverflow.com/questions/4871942/how-to-redirect-to-another-page-using-php </br>
+    Easy solution:
+    ```php
+    <?php
+        echo "<script> location.href='new_url'; </script>";
+        exit;
+    ?>
+    ```
